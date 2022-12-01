@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/root/alx-system_engineering-devops/alx-system_engineering-devops'
+let g:netrw_dirhist_5='/root/alx-zero_day/alx-zero_day'
 let g:netrw_dirhist_4='/root'
 let g:netrw_dirhist_3='/root/alx-zero_day'
 let g:netrw_dirhist_2='/root'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_0='/root'
 let g:netrw_dirhist_9='/root/alx-zero_day'
 let g:netrw_dirhist_8='/root'
 let g:netrw_dirhist_7='/root/alx-zero_day'
-let g:netrw_dirhist_6='/root/alx-zero_day/alx-zero_day'
-let g:netrw_dirhist_5='/root/alx-zero_day'
