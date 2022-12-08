@@ -1,2 +1,3 @@
 #!/bin/bash
-egrep "root" /etc/passwd
+find . -type d ! -path | wc -1
+
