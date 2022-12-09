@@ -1,1 +1,1 @@
-3-listfiles
+Display current directoty contents in a long format
