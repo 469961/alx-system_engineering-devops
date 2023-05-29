@@ -1,0 +1,10 @@
+127.0.0.2 localhost
+8.8.8.8 facebook.com
+8.8.8.8 facebook.com
+::1	localhost ip6-localhost ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+172.17.0.23	3e60f54d431e
+8.8.8.8 facebook.com
