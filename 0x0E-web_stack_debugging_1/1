@@ -1,0 +1,4 @@
+mv: cannot stat '/etc/nginx/sites-available/default': No such file or directory
+cp: cannot stat '/etc/nginx/sites-enabled/default': No such file or directory
+nginx: unrecognized service
+nginx: unrecognized service
